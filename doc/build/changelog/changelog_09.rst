@@ -1,4 +1,3 @@
-
 ==============
 0.9 Changelog
 ==============
@@ -146,7 +145,7 @@
         for background on building out from SQLAlchemy's test platform.
 
     .. change::
-        :tags: orm feature
+        :tags: feature, orm
         :tickets: 2976
 
         Added a new option to :paramref:`.relationship.innerjoin` which is
